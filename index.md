@@ -6,6 +6,7 @@ footer: '![height:15](images/naver.png)'
 ---
 
 #### 내가 그린 그림을 움직이는 3D 모델로 만들어보자
+NAVER FE Platform
 
 ---
 
