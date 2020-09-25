@@ -82,7 +82,7 @@ NAVER FE Platform
 ---
 
 - **2**에서 만든 3D 모델에 뼈대를 추가해서 Skinned Mesh
-- 즉, 애니메이션이 가능한 상태로
+- 즉, 애니메이션이 가능한 상태로 만들어주세요
 
 ---
 
@@ -106,6 +106,11 @@ NAVER FE Platform
 ### 관련 키워드
 - Skeletal animation
 - Inverse Kinematics
+
+---
+
+### 5. 마무리
+발표준비, 보고서 작성, 데모 만들기, ...
 
 ---
 
