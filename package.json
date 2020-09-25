@@ -1,0 +1,13 @@
+{
+  "name": "presentation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "marp -w index.md",
+    "build": "marp index.md"
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "^0.18.0"
+  }
+}
